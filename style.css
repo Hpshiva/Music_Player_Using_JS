@@ -189,6 +189,12 @@ html {
     width: 40%;
     /* background-color: black; */
   }
+  .song {
+    height: 80%;
+    width: 55%;
+    padding-left: 1rem;
+    padding-top: 2rem;
+  }
   .card circle {
     z-index: -1;
     width: 1px;
