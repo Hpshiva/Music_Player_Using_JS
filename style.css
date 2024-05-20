@@ -201,6 +201,7 @@ html {
     animation: move-up6 2s ease-in infinite alternate-reverse;
   }
   .data p {
-    font-size: larger;
+    font-size: large;
+    font-weight: 500;
   }
 }
