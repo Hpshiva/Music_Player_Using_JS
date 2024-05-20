@@ -4,6 +4,8 @@ I've crafted a personal music player using HTML, CSS, and JavaScript. 🎶
 
 🔗 Check out the live demo: [Music Player](https://music-player-using-js-ten.vercel.app/)
 
+🔗 Want to listen to my favorite tunes? [Click here](https://github.com/Hpshiva/Song_for_Test) to access the songs.
+
 🎨 With a sleek design and intuitive controls, this music player lets you enjoy your favorite tunes effortlessly.
 
 🔗 You can find the project's code on GitHub.
