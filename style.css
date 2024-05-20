@@ -182,7 +182,7 @@ html {
 }
 @media screen and (max-width: 480px) {
   .main {
-    background: rgb(129, 91, 91);
+    /* background: rgb(129, 91, 91); */
   }
   .card {
     height: 70%;
